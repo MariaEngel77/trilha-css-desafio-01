@@ -18,7 +18,7 @@ p {
   color: white
 }
 .banner .banner-content {
-  background-image: linear-gradient(rgba(0, 0, 1, 0.8), rgba(7, 70, 84, 0.5), rgba(0, 0, 0, 0.8)), url(banner.png);
+  background-image: linear-gradient(rgba(0, 0, 1, 0.8), rgba(7, 70, 84, 0.5), rgba(0, 0, 0, 0.8)), url(../images/banner.png);
   height: 450px;
   text-align: center;
   background-size: cover;
@@ -91,7 +91,7 @@ span {
   height: 200px;
   background-attachment: fixed;
   background-size: cover;
-  background-image: url(woman-code.png);
+  background-image: url(../images/woman-code.png);
   text-align: left;
   padding: 200px;
   border-top: solid 1px rgb(25, 150, 204); 
